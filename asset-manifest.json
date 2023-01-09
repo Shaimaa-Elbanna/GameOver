@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/GameOver/static/css/main.d9ff7cad.css",
+    "main.js": "/GameOver/static/js/main.2b3371ef.js",
+    "static/js/787.633f5b29.chunk.js": "/GameOver/static/js/787.633f5b29.chunk.js",
+    "static/media/fa-solid-900.ttf": "/GameOver/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/paladins.png": "/GameOver/static/media/paladins.b44d33d6e7ee1ba8.0fddd1fbe0a5e0a0af93.png",
+    "static/media/gaming.jpg": "/GameOver/static/media/gaming.ebaf2ffc84f4451d.d5751ff804c935b205d3.jpg",
+    "static/media/fa-brands-400.ttf": "/GameOver/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/logo.png": "/GameOver/static/media/logo.548dc5719c2345c22eef.png",
+    "static/media/fa-solid-900.woff2": "/GameOver/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/GameOver/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/GameOver/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/fa-regular-400.woff2": "/GameOver/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/fa-v4compatibility.ttf": "/GameOver/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/GameOver/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/GameOver/index.html",
+    "main.d9ff7cad.css.map": "/GameOver/static/css/main.d9ff7cad.css.map",
+    "main.2b3371ef.js.map": "/GameOver/static/js/main.2b3371ef.js.map",
+    "787.633f5b29.chunk.js.map": "/GameOver/static/js/787.633f5b29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9ff7cad.css",
+    "static/js/main.2b3371ef.js"
+  ]
+}
