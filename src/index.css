@@ -1,0 +1,64 @@
+body {
+ background-color: #272b30;
+ 
+ 
+}
+.navColor{
+  background-color: #272b30;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.mainItemColor{
+  background-color: #272b30;
+
+
+}
+
+a,a:hover{
+  color: #fff;
+  text-decoration: none;
+}
+
+.itemColor{
+  background-color: #7a8288;
+}
+.deepDark{
+  background-color: #1c1e22;
+}
+
+.coloring{
+  background-color: #3a3f44;
+}
+.formbrd
+{
+  border: none;
+}
+.btnbrd{
+  border-color: #000;
+}
+
+.itemC{
+  background-color: #32383e;
+}
+
+.Loading{
+  position: fixed;
+  top: 100px;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background-color: #272b30;
+  z-index: 20;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
+.Navindex{
+  z-index: 80 !important;
+}

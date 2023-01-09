@@ -1,0 +1,15 @@
+.home {
+  background-image: url(home-img/paladins.b44d33d6e7ee1ba8.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 50vh;
+  background-color: rgba(0, 0, 0, 0.336);
+}
+
+.homeOverlay {
+  border-style: none solid solid solid;
+  border-color: #000;
+  border-width: 1px;
+  border-radius: 10px;
+}/*# sourceMappingURL=Home.css.map */

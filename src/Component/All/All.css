@@ -1,0 +1,12 @@
+.All .itemtext {
+  color: #7a8288;
+}
+.All .h3Color {
+  color: #7a8288;
+}
+.All .item:hover {
+  transform: scale(1.1);
+}
+.All .item {
+  transition: all 0.5s;
+}/*# sourceMappingURL=All.css.map */
